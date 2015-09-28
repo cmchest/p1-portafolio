@@ -1,0 +1,29 @@
+* {
+	font-family: "Syncopate", sans-serif;
+}
+
+body {
+	padding-top: 50px;
+}
+
+.container {
+	background-color: #000000 ;
+}
+
+h1 {
+	font-size: 50px;
+	color: #FF4F00;
+	font-weight: lighter;
+}
+
+h2 {
+	color: white;
+}
+
+h3 {
+	color: white; 
+}
+
+.header-h3 {
+	font-weight: bolder;
+}
